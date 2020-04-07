@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-	<head>
+<head>
 		<style>
 		@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@300;400&display=swap');
 html {
@@ -177,4 +175,3 @@ a {
   <h3 id="foot">Đọc thêm về con người phi thường này tại <a id="tribute-link" href="https://tennguoidepnhat.net/ti%e1%bb%83u-s%e1%bb%ad/" target="_blank">Việt Nam Hồ Chí Minh</a>.</h3>
   <p>trang Lo gõ cho Hòa béo học sử (học theo chắc liệt m luôn hihi)</p>
 	</body>
-</html>
